@@ -11,12 +11,14 @@
     width: 90%;
     height: 50px;
     margin: auto;
+    border-radius: 1px none black;
 }
 
 #toppart img{
     width: 50px;
     height: 50px;
     border-radius: 50%;
+    
 
 }
 #toppart nav ul{
@@ -32,6 +34,7 @@
     color: brown;
     /* border: 1px dotted black; */
     font-family: "Bungee Spice", sans-serif;
+    font-family: "Bokor", system-ui;
     
 
 }
