@@ -43,7 +43,7 @@
 
 #toppart nav ul a{
     text-decoration: none;
-    color:orangered;
+    color:white;
     /* border: 1px dotted black; */
     font-family: "Bungee Spice", sans-serif;
     font-family: "Bokor", system-ui;
@@ -71,7 +71,7 @@
     width: 100%;
     height: 100vh;
     /* border: 3px solid black; */
-    background-image: url(./cake.jpg);
+    background-image: url(./cupcake2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -91,7 +91,7 @@
 }
 #about .mainabout{
     width: 100%;
-    height: 100vh;
+    /* height: 100vh; */
     /* border: 1px solid black; */
     align-items: center;
     gap: 90px;
@@ -119,5 +119,24 @@
     justify-content: space-between;
     align-items: center;
     padding: 10px;
+    color: white;
+
+}
+
+#rv{
+    width: 100%;
+    /* height:50vh; */
+}
+#rv .aboutdiv{
+    display: flex;
+    justify-content: center;
+
+}
+
+#rv .aboutdiv div{
+    width: 500px;
+    height:300px;
+    border: 2px solid black;
+
 
 }
