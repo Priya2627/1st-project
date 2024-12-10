@@ -57,6 +57,7 @@
     color: white;
     font-style: initial;
     font-stretch: expanded;
+    rotate:calc();
    
 
 }
@@ -64,6 +65,7 @@
 #toppart button{
     margin: 30px;
     border-radius: 50px;
+    padding: 5px;
 }
 /* ============main section css======== */
 
